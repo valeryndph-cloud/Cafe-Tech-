@@ -87,13 +87,13 @@ Ramas del proyecto:
 
 La landing page de CaféTech estará disponible próximamente mediante GitHub Pages.
 
-🔗 **Link de la página:** 
+🔗 **Link de la página:** https://valeryndph-cloud.github.io/Cafe-Tech-/
 
 ---
 
 ## 📂 Repositorio
 
-🔗 **Link del repositorio:** 
+🔗 **Link del repositorio:** https://github.com/valeryndph-cloud/Cafe-Tech-
 
 ---
 
