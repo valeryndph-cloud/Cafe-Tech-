@@ -110,3 +110,14 @@ Esta versión se marca como `v1.0` porque el proyecto ya cuenta con la estructur
 La página presenta información sobre el café de especialidad, el espacio de coworking y el servicio de WiFi. También cuenta con las secciones principales de inicio, servicios, nosotros, estadísticas y contacto, además de un diseño organizado y una navegación que permite acceder fácilmente al contenido.
 
 Por esta razón, consideramos que esta versión representa una primera versión completa y funcional del proyecto, por lo que merece ser identificada como `v1.0`.
+
+
+## Git: Stash y Tag
+
+### Git Stash
+
+`git stash` sirve para guardar temporalmente los cambios que tenemos en nuestro proyecto sin hacer un commit. Esto permite dejar la carpeta limpia para poder realizar otra tarea y después recuperar los cambios cuando los necesitemos.
+
+### Git Tag
+
+`git tag` sirve para marcar un commit importante del proyecto con un nombre de versión. En este proyecto utilizamos `v1.0` para identificar una versión que consideramos completa y funcional.
