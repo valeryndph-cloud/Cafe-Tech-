@@ -102,3 +102,11 @@ La landing page de CaféTech estará disponible próximamente mediante GitHub Pa
 **Café, ideas y tecnología.**
 
 © 2026 CaféTech
+
+## Versión 1.0
+
+Esta versión se marca como `v1.0` porque el proyecto ya cuenta con la estructura principal de la landing page de Café-Tech y cumple con el objetivo planteado.
+
+La página presenta información sobre el café de especialidad, el espacio de coworking y el servicio de WiFi. También cuenta con las secciones principales de inicio, servicios, nosotros, estadísticas y contacto, además de un diseño organizado y una navegación que permite acceder fácilmente al contenido.
+
+Por esta razón, consideramos que esta versión representa una primera versión completa y funcional del proyecto, por lo que merece ser identificada como `v1.0`.
